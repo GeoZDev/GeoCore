@@ -36,3 +36,5 @@ Feed: core.cmd.feed
 
 # Acquista il Core
 Il core è acquistabile a basso prezzo, per comprarlo contatta @CaptainVarion su telegram, per testare il core basta scrivermi in privato.
+ 
+# Hai qualche idea? Apri un issue scrivendo cosa vorresti che ci sia nel Core!
